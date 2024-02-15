@@ -93,5 +93,15 @@ http://157.245.117.238:8000/play/a0ur/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",Eleven sports 4 🇵🇱
+#EXTINF:-1 group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",Eleven sports 4 🇵🇱
 http://cdnx1.plusx.tv:8880/272/mono.m3u8?token=65df4b105d30b4b9573333
+
+
+#EXTINF:-1 group-title="FILMES",TV Cine Action[ᴴᴰ]
+http://45.153.35.221:8000/play/a0wu
+#EXTINF:-1 group-title="FILMES",TV Cine Edition[ᴴᴰ]
+http://45.153.35.221:8000/play/a0w3
+#EXTINF:-1 group-title="FILMES",TV Cine Emotion[ᴴᴰ]
+http://45.153.35.221:8000/play/a0w4
+#EXTINF:-1 group-title="FILMES",TV Cine Top[ᴴᴰ]
+http://45.153.35.221:8000/play/a0wt
