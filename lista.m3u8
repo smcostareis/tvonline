@@ -44,6 +44,7 @@ http://cp4.cpui.xyz:80/live/121Andreb/An9607601/143457.ts
 #EXTINF:-1 tvg-id="" group-title="DESPORTO" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/FoxSport2.png",Fox Sport 2 🇧🇷 🟡
 http://voz.one:80/live/alexfnt/vTFBGKdUYq/13883&amp;f=.ts
 
+
 #EXTINF:-1 tvg-id="" group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 2 🇧🇷 🟡
 http://bgp.cdnr1.xyz/live/zHq73n/X1ppNY/83209.m3u8
 #EXTINF:-1 tvg-id="" group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 2 🇧🇷 🟡
@@ -53,10 +54,12 @@ http://78.159.119.122:2082/live/Tourobox1-YHt4dIVIcs/bGO9EwsxQc/129.ts
 #EXTINF:-1 tvg-id="" group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 2 🇧🇷 🟡
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
 
+
 #EXTINF:-1 tvg-id="" group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 3 🇧🇷 
 http://51.83.238.223:16555/ESPN3
 #EXTINF:-1 tvg-id="" group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 3 🇧🇷  🟡
 http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/23&amp;f=.ch
+
 
 #EXTINF:-1 tvg-id="" group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 4 🇧🇷 🟡
 http://globo.balance-test.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/66&amp;f=.ch
@@ -64,7 +67,6 @@ http://globo.balance-test.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/66&amp;f=.ch
 http://cp4.cpui.xyz:80/live/121Andreb/An9607601/143453.m3u8
 #EXTINF:-1 tvg-id="" group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN 4 🇧🇷 🟡
 http://voz.one:80/live/alexfnt/vTFBGKdUYq/374.m3u8
-
 
 
 #EXTINF:-1 tvg-id=""  group-title="DESPORTO" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ziggoRacing.png",Ziggo Racing 🔵
@@ -80,6 +82,7 @@ https://webudit.hlsjs.ru/lb/premium383/index.m3u8$OPT:http-referrer=https://webl
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.hlsjs.ru/lb/premium383/index.m3u8
 
+
 #EXTINF:-1 group-title="DESPORTO" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨 🟡
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4316&amp;f=.ch
 #EXTINF:-1 group-title="DESPORTO" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/goltv.png",Goltv 🇪🇨
@@ -92,16 +95,21 @@ http://186.3.85.115:8000/play/a001/index.m3u8
 http://157.245.117.238:8000/play/a0ur/index.m3u8
 
 
-
 #EXTINF:-1 group-title="DESPORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",Eleven sports 4 🇵🇱
 http://cdnx1.plusx.tv:8880/272/mono.m3u8?token=65df4b105d30b4b9573333
 
 
-#EXTINF:-1 group-title="FILMES",TV Cine Action[ᴴᴰ]
-http://45.153.35.221:8000/play/a0wu
-#EXTINF:-1 group-title="FILMES",TV Cine Edition[ᴴᴰ]
-http://45.153.35.221:8000/play/a0w3
-#EXTINF:-1 group-title="FILMES",TV Cine Emotion[ᴴᴰ]
-http://45.153.35.221:8000/play/a0w4
-#EXTINF:-1 group-title="FILMES",TV Cine Top[ᴴᴰ]
-http://45.153.35.221:8000/play/a0wt
+#EXTINF:-1 group-title="FILMES",PT TVCINE ACTION
+http://lista.iptvagora.com:25461/4352305847/305847/37666
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE EDITION" tvg-logo="" group-title="FILMES",PT TVCINE EDITION
+http://lista.iptvagora.com:25461/4352305847/305847/37667
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE EDITION HD" tvg-logo="" group-title="FILMES",PT TVCINE EDITION HD
+http://lista.iptvagora.com:25461/4352305847/305847/37668
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE EMOTION" tvg-logo="" group-title="FILMES",PT TVCINE EMOTION
+http://lista.iptvagora.com:25461/4352305847/305847/37669
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE EMOTION HD" tvg-logo="" group-title="FILMES",PT TVCINE EMOTION HD
+http://lista.iptvagora.com:25461/4352305847/305847/37670
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE TOP" tvg-logo="" group-title="FILMES",PT TVCINE TOP
+http://lista.iptvagora.com:25461/4352305847/305847/37671
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE TOP HD" tvg-logo="" group-title="FILMES",PT TVCINE TOP HD
+http://lista.iptvagora.com:25461/4352305847/305847/37672
